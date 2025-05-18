@@ -1,8 +1,8 @@
-<img  alt="exchangeimg" width="200px" height="200px" align="right" src="https://images.vexels.com/media/users/3/146882/isolated/preview/7525685ed67fa782b7d851273e1264c7-cambio-de-divisas.png" >
+
 
 ## Conversor de monedas
 
-Proyecto para el programa ONE-Backend. La app está desarrollada en Java 17 para realizar la conversión de distintas monedas. Se basa en el consumo de la API de [ExchangeRate-API](https://www.exchangerate-api.com/), de este modo esta app se alimenta de los listados de países y de la tasa de cambio entre dos monedas dadas.
+La app está desarrollada en Java para realizar la conversión de distintas monedas. Se basa en el consumo de la API de [ExchangeRate-API](https://www.exchangerate-api.com/), de este modo esta app se alimenta de los listados de países y de la tasa de cambio entre dos monedas dadas.
 
 `Si deseas probar la aplicación visita el apartado de preparación del ambiente! :3`
 
